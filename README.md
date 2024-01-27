@@ -1,1 +1,2 @@
 Weather Checker is a simple web application built with HTML and CSS that allows users to check the current weather conditions of a city. Users can enter the name of a city, and the application will provide real-time information about the temperature, humidity, and wind speed, along with an illustrative weather icon.
+![Screenshot 2024-01-27 150101](https://github.com/ANSHUPANGHAL/Check_Weather/assets/143378418/19ac6ee4-e9e4-4798-9366-b767043d69b3)
